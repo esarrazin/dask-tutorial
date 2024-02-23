@@ -21,3 +21,4 @@ dependencies:
   - pooch
   - xarray
   - mamba
+  - scikit-learn
