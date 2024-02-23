@@ -1,0 +1,16 @@
+jupyterlab
+numpy
+scipy
+bokeh=2.4
+dask=2023.12.0
+dask-labextension
+distributed=2023.12.0
+matplotlib
+pandas
+graphviz
+ipycytoscape
+pyarrow
+s3fs
+zarr
+pooch
+xarray
