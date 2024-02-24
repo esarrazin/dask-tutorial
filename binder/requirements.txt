@@ -15,3 +15,4 @@ zarr
 pooch
 xarray
 scikit-learn
+dask-ml
